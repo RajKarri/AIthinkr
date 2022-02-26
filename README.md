@@ -1,1 +1,0 @@
-# rajkarri.github.io

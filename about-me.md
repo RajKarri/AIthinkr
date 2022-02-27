@@ -1,4 +1,4 @@
-## About Me
+# About Me
 
 LinkedIn: [https://www.linkedin.com/in/rajkarri](https://www.linkedin.com/in/rajkarri)
 

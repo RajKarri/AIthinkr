@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
-title: Code and some random thoughts overflow here
+title: Coding tips and random thoughts overflow here
 description: Blog by "Raj Karri"
+titles_from_headings:
+  enabled:     false

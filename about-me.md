@@ -6,4 +6,4 @@
 
 <a href="https://stackoverflow.com/users/4398885/raj-karri" target="_blank">StackOverflow</a>
 
-<a href="https://leetcode.com/rajkarri85/" target="_blank">LeetCode</a>
+<a href="https://leetcode.com/rajkarri/" target="_blank">LeetCode</a>

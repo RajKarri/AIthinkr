@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
+markdown: kramdown
 titles_from_headings:
   strip_title: true
+  

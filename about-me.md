@@ -1,7 +1,11 @@
 # About Me
 
-LinkedIn: [https://www.linkedin.com/in/rajkarri](https://www.linkedin.com/in/rajkarri)
+[Home](index.md)&emsp;[About Me](about-me.md)
 
-StackOverflow: [https://stackoverflow.com/users/4398885/raj-karri](https://stackoverflow.com/users/4398885/raj-karri)
+If you are interested to know more about my work, please do a <kbd>Ctrl+Click</kbd> on any of these links.
 
-LeetCode: [https://leetcode.com/rajkarri85/](https://leetcode.com/rajkarri85/)
+<a href="https://www.linkedin.com/in/rajkarri" target="_blank">LinkedIn</a>
+
+<a href="https://stackoverflow.com/users/4398885/raj-karri" target="_blank">StackOverflow</a>
+
+<a href="https://leetcode.com/rajkarri/" target="_blank">LeetCode</a>

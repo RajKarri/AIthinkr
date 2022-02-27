@@ -1,6 +1,6 @@
 # Coding tips and random thoughts overflow here
 
-[About Me](about-me.md)
+[Home](index.md)&emsp;[About Me](about-me.md)
 
 ## Arrays
 

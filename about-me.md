@@ -1,6 +1,7 @@
 # About Me
 
 [Home](index.md)&emsp;[About Me](about-me.md)
+<hr/>
 
 If you are interested to know more about my work, please click on these links.
 

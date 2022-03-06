@@ -1,6 +1,7 @@
 # Arrays in high level languages like C#
 
 [Home](index.md)&emsp;[About Me](about-me.md)
+<hr/>
 
 1) An array is a collection of similar elements.
 2) Array runs from 0 to n-1 where n is the length of array.
@@ -21,7 +22,9 @@
 
 Imagine a customer booking 5 non-cancellable tickets in a plane for his family.
 ```
-  // Length 5 must be provided during initialization. One can't initialize array without providing length.
+  // Length 5 must be provided during initialization. 
+  // One can't initialize array without providing length.
+  
   Ticket[] my_family_tickets = new Ticket[5]; 
 ```
 Here 5 tickets are allotted to family. Irrespective of number of family members went on trip, all tickets will consider as utilized.

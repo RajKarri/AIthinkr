@@ -1,6 +1,7 @@
 # Arrays in high level languages like C#
 
 [Home](index.md)&emsp;[About Me](about-me.md)
+<hr/>
 
 1) An array is a collection of similar elements.
 2) Array runs from 0 to n-1 where n is the length of array.

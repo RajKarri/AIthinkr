@@ -21,7 +21,9 @@
 
 Imagine a customer booking 5 non-cancellable tickets in a plane for his family.
 ```
-  // Length 5 must be provided during initialization. One can't initialize array without providing length.
+  // Length 5 must be provided during initialization. 
+  // One can't initialize array without providing length.
+  
   Ticket[] my_family_tickets = new Ticket[5]; 
 ```
 Here 5 tickets are allotted to family. Irrespective of number of family members went on trip, all tickets will consider as utilized.

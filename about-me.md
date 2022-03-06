@@ -2,7 +2,7 @@
 
 [Home](index.md)&emsp;[About Me](about-me.md)
 
-If you are interested to know more about my work, please do a <kbd>Ctrl+Click</kbd> on any of these links.
+If you are interested to know more about my work, please click on these links.
 
 <a href="https://www.linkedin.com/in/rajkarri" target="_blank">LinkedIn</a>
 

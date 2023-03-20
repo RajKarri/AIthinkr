@@ -1,6 +1,6 @@
-# Coding tips and random thoughts overflow here
+# AI & machine learning resource for critical thinking & problem-solving.
 
-[Home](index.md)&emsp;[About Me](about-me.md)
+[Home](index.md)&emsp;
 <hr/>
 
 ## Arrays

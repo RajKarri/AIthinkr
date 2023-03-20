@@ -1,4 +1,4 @@
-# AI & machine learning resource for critical thinking & problem-solving.
+# AI & machine learning space for critical thinking & problem-solving.
 
 [Home](index.md)&emsp;
 <hr/>

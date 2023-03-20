@@ -1,3 +1,3 @@
-# A blog by 'Raj Karri'
+# AI & machine learning space for critical thinking & problem-solving.
 
-[https://rajkarri.github.io](https://rajkarri.github.io)
+[https://aithinkr.com](https://aithinkr.com)

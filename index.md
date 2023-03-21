@@ -3,6 +3,8 @@
 [Home](index.md)&emsp;
 <hr/>
 
-## Arrays
+**Recommended Prerequisites to learn but not necessarily in same order:**
 
-[Arrays in high level languages like C#](c-sharp-arrays.md)
+1) Data Structures and Algorithms
+2) Linear Algebra
+3) Probability and Statistics (including concepts such as Random Variables, Expected Value, and Variance)"
